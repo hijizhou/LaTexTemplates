@@ -7,14 +7,17 @@ This is a highly customized template for a professional CV. The main highlights 
 
 ## Example
 				
-				\begin{rSection}{Research Experience}
-				\begin{rSubsection}{Research Project 1}{}{AT SOME PLACE}{Advisor: Prof.\wtspace XX} 
-						\item Item 1
-						\item Item 2
-				\end{rSubsection} 
-				\end{rSection}
+	\begin{rSection}{Research Experience}
+	\begin{rSubsection}{Research Project 1}{}{AT SOME PLACE}{Advisor: Prof.\wtspace XX} 
+		\item Item 1
+		\item Item 2
+	\end{rSubsection} 
+	\end{rSection}
 
 ## Screenshot
 ![img](screenshot.png)
+
+## Terms of sharing
+Feel free to use, copy, fork, share, study and/or modify it. Contact: Jizhou Li (hijizhou at gmail.com)
 
 
