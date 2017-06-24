@@ -18,6 +18,7 @@ This is a highly customized template for a professional CV. The main highlights 
 ![img](screenshot.png)
 
 ## Terms of sharing
-Feel free to use, copy, fork, share, study and/or modify it. Contact: Jizhou Li (hijizhou at gmail.com)
+Feel free to use, copy, fork, share, study and/or modify it. 
+Contact: Jizhou Li (hijizhou at gmail.com)
 
 
